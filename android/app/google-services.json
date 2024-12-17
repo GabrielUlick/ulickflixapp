@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960621184279",
+    "project_id": "filmesapp-18529",
+    "storage_bucket": "filmesapp-18529.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960621184279:android:66521086a49c61cb4de352",
+        "android_client_info": {
+          "package_name": "com.ulickflix.appfilmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960621184279-77ai1tsud5v9j8ku3h1uijrsusuu5878.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ulickflix.appfilmes",
+            "certificate_hash": "c95b15b24916850a4444fa10215b9b9b0825abdf"
+          }
+        },
+        {
+          "client_id": "960621184279-kgp9hid1eonadb337jslb2hffsrmtuhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjY_TnJENf4nFTHee9klxtQA920rKYA6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960621184279-kgp9hid1eonadb337jslb2hffsrmtuhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
